@@ -31,4 +31,6 @@ RELAY MODULE
 SOFTWARE REQUIRMENTS-
 ARDUINO IDE
 
+![image](https://user-images.githubusercontent.com/96488109/204084785-6924da98-7277-44cb-aeb1-384b0a42d51f.png)
+
 
