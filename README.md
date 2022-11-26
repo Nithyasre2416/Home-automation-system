@@ -21,7 +21,7 @@ This is usually done via a smartphone app (for example to control smart thermost
 ![image](https://user-images.githubusercontent.com/96488109/204084494-2687a96d-6e89-4f27-bbab-89277ca7d456.png)
 
 HARDWARE REQUIRMENTS
-ARDUINO UNO R3
+-ARDUINO UNO R3
 HC_05 BLUETOOTH MODULE
 LED
 RESISTOR
@@ -29,7 +29,7 @@ LDR
 BREADBOARD
 RELAY MODULE
 
-SOFTWARE REQUIRMENTS
+-SOFTWARE REQUIRMENTS
 ARDUINO IDE
 
 
