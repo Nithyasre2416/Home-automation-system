@@ -75,3 +75,5 @@ void bluetooth_control()
           case 'C': digitalWrite(RelayPin3, LOW);  EEPROM.update(2,LOW); break; // if 'C' received Turn on Relay3
           case 'c': digitalWrite(RelayPin3, HIGH); EEPROM.update(2,HIGH); break; // if 'c' received Turn off Relay3
           case 'D': digitalWrite(RelayPin4, LOW);  EEPROM.update(3,LOW); break; // if 'D' received Turn on Relay4
+return 0;
+    }
