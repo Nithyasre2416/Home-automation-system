@@ -1,6 +1,3 @@
-CODE FOR CONNECTING HC_05 TO BLUETOOTH
-
-
 #include <SoftwareSerial.h>
  
 SoftwareSerial BTSerial(10, 11);   // RX | TX
